@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Qual é a melhor turma do CERB',
-    'A que mais se dedica as aulas do Prof. Rafael?',
-    'Estou em dúvida'
+    'qual o melhor da região',
+    'RIO DO TIGRE FC',
+    'sempre o melhor'
 )
 
 criaCartao(
