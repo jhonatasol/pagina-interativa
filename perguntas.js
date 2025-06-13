@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'qual o melhor da região',
     'RIO DO TIGRE FC',
-    'sempre o melhor'
+    'Sempre o melhor'
 )
 
 criaCartao(
